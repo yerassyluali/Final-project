@@ -1,0 +1,34 @@
+body{
+	margin: 0;
+	font-family: sans-serifs;
+	color: white;
+}
+menu{
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+}
+.line{
+	background: black;
+	height: 2px;
+	margin-bottom: 2px;
+}
+.background{
+background: url("https://kartinkin.net/uploads/posts/2021-07/1625159311_5-kartinkin-com-p-futbol-fon-krasivie-foni-5.jpg");
+height: 670px;
+background-size: 100%;
+}
+.body{
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	width: 80%;
+	margin-bottom: 20px;
+}
+input{
+	margin-bottom: 3px;
+}
+.congrat{
+	margin-bottom: 30px;
+}
+ 

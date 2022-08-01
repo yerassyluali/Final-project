@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+}
+menu{
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+}
+.line{
+	height: 2px;
+	background: black;
+}
+ .block1{
+    background-color: #FFE5CC;
+    height: 100%;
+  }
+  .info{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    margin-bottom:65px;
+  }
+  img{
+  width: 500px;
+  height: 500px;
+  text-align: center;
+}
+.txt{
+  text-align: center;
+  width: 50%;
+}
